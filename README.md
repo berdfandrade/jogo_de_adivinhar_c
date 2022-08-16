@@ -1,6 +1,8 @@
 # Jogo de adivinhação em C
 
-#### Essas são minhas anotações sobre o programa. As anotações não possuem uma ordem específica.
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/berdfandrade/caderno_c?color=%23A8B9CC&label=.&logo=C&logoColor=FFFFFF">
+
+### Essas são minhas anotações sobre o programa. As anotações não possuem uma ordem específica.
 
 A primeira coisa que fazemos é incluir a a diretiva de C, standard input header. `#include <stdio.h>` e fazemos a declaração da variável. Esse código imprime o cabeçalho do nosso jogo. Toda linha em C termina com ponto e vírgula.
 
